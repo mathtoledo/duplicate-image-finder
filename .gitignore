@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!calc_hashes.py
+!hash_comparing.py
+!tensor_mse_comparing.py
+!README.md
